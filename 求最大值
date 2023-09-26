@@ -1,0 +1,10 @@
+function findMaxValue(nums) {
+    var max = nums[0];
+    for (var i = 1; i < nums.length; i++) {
+        if (nums[i] > max){
+            max = nums il;
+        }
+    }    
+    return max;
+}
+console.log(findMaxValue([2,7,4,9,5])); 

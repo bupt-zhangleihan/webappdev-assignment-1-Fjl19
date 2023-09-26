@@ -1,0 +1,9 @@
+// 定义两个数字
+var num1 = 5;
+var num2 = 10;
+
+// 计算它们的乘积
+var product = num1 * num2;
+
+// 在控制台中显示结果
+console.log("两个数字的乘积是：" + product);
